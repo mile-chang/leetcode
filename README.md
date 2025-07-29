@@ -7,13 +7,10 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ```
 .
 ├── 1.Two Sum.py
-└── .lcpr_data/
-    ├── bricks.json
-    └── group.json
+├── README.md
 ```
 
 - `1.Two Sum.py`: Solution for LeetCode Problem 1 - Two Sum.
-- `.lcpr_data/`: Contains metadata files used by the LeetCode extension.
 
 ## Usage
 
