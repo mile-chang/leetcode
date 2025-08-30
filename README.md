@@ -7,10 +7,12 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ```
 .
 ├── 1.Two Sum.py
+├── 144.Binary Tree Preorder Traversal.py
 ├── README.md
 ```
 
 - `1.Two Sum.py`: Solution for LeetCode Problem 1 - Two Sum.
+- `144.Binary Tree Preorder Traversal.py`: Solution for LeetCode Problem 144 - Binary Tree Preorder Traversal.
 
 ## Usage
 
