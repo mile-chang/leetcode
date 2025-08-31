@@ -4,17 +4,23 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 
 ## Structure
 
+
 ```
 .
 ├── 1.Two Sum.py
+├── 94.Binary Tree Inorder Traversal.py
 ├── 144.Binary Tree Preorder Traversal.py
+├── 145.Binary Tree Postorder Traversal.py
+├── 589.N-ary Tree Preorder Traversal.py
 ├── README.md
 ```
 
 - `1.Two Sum.py`: Solution for LeetCode Problem 1 - Two Sum.
+- `94.Binary Tree Inorder Traversal.py`: Solution for LeetCode Problem 94 - Binary Tree Inorder Traversal.
 - `144.Binary Tree Preorder Traversal.py`: Solution for LeetCode Problem 144 - Binary Tree Preorder Traversal.
-- `94.Binary Tree Inorder Traversal.py`: Solution for LeetCode Problem 94.Binary Tree Inorder Traversal.
-- `145.Binary Tree Postorder Traversal.py`: Solution for LeetCode Problem 145.Binary Tree Postorder Traversal.
+- `145.Binary Tree Postorder Traversal.py`: Solution for LeetCode Problem 145 - Binary Tree Postorder Traversal.
+- `589.N-ary Tree Preorder Traversal.py`: Solution for LeetCode Problem 589 - N-ary Tree Preorder Traversal.
+
 
 ## Usage
 
