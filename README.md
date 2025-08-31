@@ -5,6 +5,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ## Structure
 
 
+
 ```
 .
 ├── 1.Two Sum.py
@@ -12,6 +13,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ├── 144.Binary Tree Preorder Traversal.py
 ├── 145.Binary Tree Postorder Traversal.py
 ├── 589.N-ary Tree Preorder Traversal.py
+├── 590.N-ary Tree Postorder Traversal.py
 ├── README.md
 ```
 
@@ -20,6 +22,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 - `144.Binary Tree Preorder Traversal.py`: Solution for LeetCode Problem 144 - Binary Tree Preorder Traversal.
 - `145.Binary Tree Postorder Traversal.py`: Solution for LeetCode Problem 145 - Binary Tree Postorder Traversal.
 - `589.N-ary Tree Preorder Traversal.py`: Solution for LeetCode Problem 589 - N-ary Tree Preorder Traversal.
+- `590.N-ary Tree Postorder Traversal.py`: Solution for LeetCode Problem 590 - N-ary Tree Postorder Traversal.
 
 
 ## Usage
