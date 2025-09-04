@@ -14,6 +14,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ├── 145.Binary Tree Postorder Traversal.py
 ├── 589.N-ary Tree Preorder Traversal.py
 ├── 590.N-ary Tree Postorder Traversal.py
+├── 797.All Paths From Source to Target.py
 ├── README.md
 ```
 
@@ -23,6 +24,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 - `145.Binary Tree Postorder Traversal.py`: Solution for LeetCode Problem 145 - Binary Tree Postorder Traversal.
 - `589.N-ary Tree Preorder Traversal.py`: Solution for LeetCode Problem 589 - N-ary Tree Preorder Traversal.
 - `590.N-ary Tree Postorder Traversal.py`: Solution for LeetCode Problem 590 - N-ary Tree Postorder Traversal.
+- `797.All Paths From Source to Target.py`: Solution for LeetCode Problem 590 - N-ary Tree Postorder Traversal.
 
 
 ## Usage
