@@ -17,6 +17,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ├── 797.All Paths From Source to Target.py
 ├── 82.Remove Duplicates from Sorted List II.py
 ├── 21.Merge Two Sorted Lists.py
+├── 378.Kth Smallest Element in a Sorted Matrix.py
 ├── README.md
 ```
 
@@ -29,6 +30,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 - `797.All Paths From Source to Target.py`: Solution for LeetCode Problem 797 - All Paths From Source to Target.
 - `82.Remove Duplicates from Sorted List II`:Solution for LeetCode Problem 82 - Remove Duplicates from Sorted List II.
 - `21.Merge Two Sorted Lists`:Solution for LeetCode Problem 21 - Merge Two Sorted Lists.
+- `378.Kth Smallest Element in a Sorted Matrix`:Solution for LeetCode Problem 378 - Kth Smallest Element in a Sorted Matrix.
 
 ## Usage
 
