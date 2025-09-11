@@ -7,6 +7,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ```
 .
 ├── [Easy] 1.Two Sum.py
+├── [Medium] 2.Add Two Numbers.py
 ├── [Easy] 21.Merge Two Sorted Lists.py
 ├── [Medium] 82.Remove Duplicates from Sorted List II.py
 ├── [Easy] 94.Binary Tree Inorder Traversal.py
@@ -21,6 +22,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ```
 
 - `[Easy] 1.Two Sum.py`: Solution for LeetCode Problem 1 - Two Sum.
+- `[Medium] 2.Add Two Numbers.py`: Solution for LeetCode Problem 2 - Add Two Numbers.
 - `[Easy] 21.Merge Two Sorted Lists.py`: Solution for LeetCode Problem 21 - Merge Two Sorted Lists.
 - `[Medium] 82.Remove Duplicates from Sorted List II.py`: Solution for LeetCode Problem 82 - Remove Duplicates from Sorted List II.
 - `[Easy] 94.Binary Tree Inorder Traversal.py`: Solution for LeetCode Problem 94 - Binary Tree Inorder Traversal.
