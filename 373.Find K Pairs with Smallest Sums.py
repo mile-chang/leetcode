@@ -14,7 +14,8 @@ class Solution:
         pq = PriorityQueue()
         
         for i in range(len(nums1)):
-            # initialize the priority queue with pairs (nums1[i], nums2[0])
+            # initialize the priority queue with pairs (nums1[i], nums2[0]) and nums2 index 0
+            # tuple: (sum, num1, num2, index in nums2)
             pq.put((nums1[i] + nums2[0], nums1[i], nums2[0], 0))
         
         res = []
