@@ -10,8 +10,9 @@ class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         if len(nums) == 0:
             return 0
-        # use two pointers to track the position
-        slow, fast = 0, 0
+        # slow points to the next position to insert non-val value
+        slow = 0
+        fast = 0
         while fast < len(nums):
             if nums[fast] != val:
                 # Fisrt: copy the non-val value to the front

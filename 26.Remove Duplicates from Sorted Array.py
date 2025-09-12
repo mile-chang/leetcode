@@ -10,8 +10,9 @@ class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         if len(nums) == 0:
             return 0
-        # use two pointers to track the position
-        slow, fast = 0, 0
+        # slow points to the last element of the current active region
+        slow = 0
+        fast = 0
         while fast < len(nums):
             if nums[slow] != nums[fast]:
                 # First: insert the slow pointer
