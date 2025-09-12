@@ -11,6 +11,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ├── [Easy] 21.Merge Two Sorted Lists.py
 ├── [Easy] 26.Remove Duplicates from Sorted Array.py
 ├── [Medium] 82.Remove Duplicates from Sorted List II.py
+├── [Easy] 83.Remove Duplicates from Sorted List.py
 ├── [Easy] 94.Binary Tree Inorder Traversal.py
 ├── [Easy] 144.Binary Tree Preorder Traversal.py
 ├── [Easy] 145.Binary Tree Postorder Traversal.py
@@ -28,6 +29,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 - `[Easy] 21.Merge Two Sorted Lists.py`: Solution for LeetCode Problem 21 - Merge Two Sorted Lists.
 - `[Easy] 26.Remove Duplicates from Sorted Array.py`: Solution for LeetCode Problem 26 - Remove Duplicates from Sorted Array.
 - `[Medium] 82.Remove Duplicates from Sorted List II.py`: Solution for LeetCode Problem 82 - Remove Duplicates from Sorted List II.
+- `[Easy] 83.Remove Duplicates from Sorted List.py`: Solution for LeetCode Problem 83 - Remove Duplicates from Sorted List.
 - `[Easy] 94.Binary Tree Inorder Traversal.py`: Solution for LeetCode Problem 94 - Binary Tree Inorder Traversal.
 - `[Easy] 144.Binary Tree Preorder Traversal.py`: Solution for LeetCode Problem 144 - Binary Tree Preorder Traversal.
 - `[Easy] 145.Binary Tree Postorder Traversal.py`: Solution for LeetCode Problem 145 - Binary Tree Postorder Traversal.
