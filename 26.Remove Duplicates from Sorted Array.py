@@ -14,8 +14,9 @@ class Solution:
         slow, fast = 0, 0
         while fast < len(nums):
             if nums[slow] != nums[fast]:
+                # First: insert the slow pointer
                 slow += 1
-                # move the unique value to the front
+                # Second: copy the non-duplicate value to the front
                 nums[slow] = nums[fast]
             fast += 1
         # the length is index + 1
