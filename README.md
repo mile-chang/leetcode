@@ -14,6 +14,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ├── [Easy] 27.Remove Element.py
 ├── [Medium] 82.Remove Duplicates from Sorted List II.py
 ├── [Easy] 83.Remove Duplicates from Sorted List.py
+├── [Medium] 92.Reverse Linked List II.py
 ├── [Easy] 94.Binary Tree Inorder Traversal.py
 ├── [Easy] 144.Binary Tree Preorder Traversal.py
 ├── [Easy] 145.Binary Tree Postorder Traversal.py
