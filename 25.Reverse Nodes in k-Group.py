@@ -45,7 +45,7 @@ class Solution:
     #     head.next = curr
     #     return prev
     
-        ''' Traverse solution '''
+        '''Recursive solution '''
         if head is None:
             return None
         # Step 1: check if there are at least k nodes left in the linked list
