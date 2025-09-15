@@ -11,6 +11,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ├── [Medium] 5.Longest Palindromic Substring.py
 ├── [Easy] 21.Merge Two Sorted Lists.py
 ├── [Easy] 26.Remove Duplicates from Sorted Array.py
+├── [Hard] 25.Reverse Nodes in k-Group (Two solution: 'iterative' and 'traverse')
 ├── [Easy] 27.Remove Element.py
 ├── [Medium] 82.Remove Duplicates from Sorted List II.py
 ├── [Easy] 83.Remove Duplicates from Sorted List.py
