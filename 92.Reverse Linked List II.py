@@ -45,7 +45,7 @@ class Solution:
     #     head.next = curr
     #     # now prev is the new head of the reversed sublist
     #     return prev
-        ''' traverse solution '''
+        ''' recursive solution '''
         # Step 1: determine traveral position
         # 1.1 if left == 1, reverse from head.
         if left == 1:
