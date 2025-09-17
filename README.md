@@ -13,6 +13,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ├── [Easy] 26.Remove Duplicates from Sorted Array.py
 ├── [Hard] 25.Reverse Nodes in k-Group (Two solution: 'iterative' and 'recursive')
 ├── [Easy] 27.Remove Element.py
+├── [Medium] 48.Rotate Image.py
 ├── [Medium] 61.Rotate List.py
 ├── [Medium] 82.Remove Duplicates from Sorted List II.py
 ├── [Easy] 83.Remove Duplicates from Sorted List.py
