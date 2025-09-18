@@ -30,7 +30,7 @@ class Solution:
                 right_bound -= 1
             # 3. Down side, store right to left strings.
             if top_bound <= down_bound:
-                for i in range(right_bound, left_bound -1, -1):
+                for i in range(right_bound, left_bound - 1, -1):
                     res.append(matrix[down_bound][i])
                 # down_bound move upward
                 down_bound -= 1
