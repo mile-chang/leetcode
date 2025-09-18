@@ -20,21 +20,25 @@ class Solution:
             if top_bound <= down_bound:
                 for i in range(left_bound, right_bound + 1):
                     res.append(matrix[top_bound][i])
+                # top_bound move downward
                 top_bound += 1
             # 2. Right side, store top to down strings.
             if left_bound <= right_bound:
                 for i in range(top_bound, down_bound + 1):
                     res.append(matrix[i][right_bound])
+                # right_bound move leftward
                 right_bound -= 1
             # 3. Down side, store right to left strings.
             if top_bound <= down_bound:
                 for i in range(right_bound, left_bound -1, -1):
                     res.append(matrix[down_bound][i])
+                # down_bound move upward
                 down_bound -= 1
             # 4. Left side, store down to up strings.
             if left_bound <= right_bound:
                 for i in range(down_bound, top_bound - 1, -1):
                     res.append(matrix[i][left_bound])
+                # left_bound move rightward
                 left_bound += 1
         return res
 # @lc code=end
