@@ -14,17 +14,17 @@ class Solution:
         count = 0
         # Step 3: replace nums
         while fast < len(nums):
-            # 3.1 put new element nums[fast] into nums[0..slow].
+            # 3.1 discover new element (put into nums[0..slow]).
             if nums[fast] != nums[slow]:
                 slow += 1
                 nums[slow] = nums[fast]
-            # 3.2 duplicating times less than 2, add it. 
+            # 3.2 process duplicating element (less than 2, add it). 
             elif slow < fast and count < 2:
                 slow += 1
                 nums[slow] = nums[fast]
             fast += 1
             count += 1
-            # 3.3 fast encounter new different elemnt, reset the duplicate times.
+            # 3.3 encounter new different elemnt, reset the duplicate times.
             if fast < len(nums) and nums[fast] != nums[fast - 1]:
                 count = 0
         # nums[0...slow]'s length is index + 1
