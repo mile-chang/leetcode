@@ -36,6 +36,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ├── [Easy] 589.N-ary Tree Preorder Traversal.py
 ├── [Easy] 590.N-ary Tree Postorder Traversal.py
 ├── [Medium] 797.All Paths From Source to Target.py
+├── [Easy] 977.Squares of a Sorted Array.py
 ├── README.md
 ```
 
