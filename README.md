@@ -21,6 +21,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ├── [Medium] 80.Remove Duplicates from Sorted Array II.py
 ├── [Medium] 82.Remove Duplicates from Sorted List II.py
 ├── [Easy] 83.Remove Duplicates from Sorted List.py
+├── [Easy] 88.Merge Sorted Array.py
 ├── [Medium] 92.Reverse Linked List II.py (Two solution: 'iterative' and 'recursive')
 ├── [Easy] 94.Binary Tree Inorder Traversal.py
 ├── [Easy] 125.Valid Palindrome.py
