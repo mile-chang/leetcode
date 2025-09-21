@@ -9,6 +9,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ├── [Easy] 1.Two Sum.py
 ├── [Medium] 2.Add Two Numbers.py
 ├── [Medium] 5.Longest Palindromic Substring.py
+├── [Easy] 14.Longest Common Prefix.py
 ├── [Easy] 21.Merge Two Sorted Lists.py
 ├── [Easy] 26.Remove Duplicates from Sorted Array.py
 ├── [Hard] 25.Reverse Nodes in k-Group (Two solution: 'iterative' and 'recursive')
