@@ -35,6 +35,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ├── [Medium] 373.Find K Pairs with Smallest Sums.py
 ├── [Medium] 378.Kth Smallest Element in a Sorted Matrix.py
 ├── [Medium] 445.Add Two Numbers II.py
+├── [Medium] 567.Permutation in String.py
 ├── [Easy] 589.N-ary Tree Preorder Traversal.py
 ├── [Easy] 590.N-ary Tree Postorder Traversal.py
 ├── [Medium] 797.All Paths From Source to Target.py
