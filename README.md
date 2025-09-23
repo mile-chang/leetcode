@@ -34,6 +34,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ├── [Easy] 283.Move Zeroes.py
 ├── [Medium] 373.Find K Pairs with Smallest Sums.py
 ├── [Medium] 378.Kth Smallest Element in a Sorted Matrix.py
+├── [Medium] 438.Find All Anagrams in a String.py
 ├── [Medium] 445.Add Two Numbers II.py
 ├── [Medium] 567.Permutation in String.py
 ├── [Easy] 589.N-ary Tree Preorder Traversal.py
