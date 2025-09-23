@@ -8,6 +8,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 .
 ├── [Easy] 1.Two Sum.py
 ├── [Medium] 2.Add Two Numbers.py
+├── [Medium] 3.Longest Substring Without Repeating Characters.py
 ├── [Medium] 5.Longest Palindromic Substring.py
 ├── [Easy] 14.Longest Common Prefix.py
 ├── [Easy] 21.Merge Two Sorted Lists.py
