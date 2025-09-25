@@ -44,6 +44,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ├── [Medium] 797.All Paths From Source to Target.py
 ├── [Easy] 867.Transpose Matrix.py
 ├── [Easy] 977.Squares of a Sorted Array.py
+├── [Medium] 1004.Max Consecutive Ones III.py
 ├── [Easy] 1260.Shift 2D Grid.py (need review)
 ├── [Medium] 1329.Sort the Matrix Diagonally.py
 ├── [Medium] 1658.Minimum Operations to Reduce X to Zero.py
