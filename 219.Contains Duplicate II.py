@@ -11,6 +11,9 @@ class Solution:
         # Conditions: i != j, |i - j| <= k
         # Find two identical numbers whose indices are ≤ k apart.
         
+        if k == 0:
+            return False
+
         # Step 1: Init
         left, right = 0, 0
         window = set()
