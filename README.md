@@ -15,7 +15,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ├── [Easy] 26.Remove Duplicates from Sorted Array.py
 ├── [Hard] 25.Reverse Nodes in k-Group (Two solution: 'iterative' and 'recursive')
 ├── [Easy] 27.Remove Element.py
-├── [Medium] 34.Find First and Last Position of Element in Sorted Array.py
+├── [Medium] 34.Find First and Last Position of Element in Sorted Array.py (need review)
 ├── [Medium] 48.Rotate Image.py
 ├── [Medium] 54.Spiral Matrix.py
 ├── [Medium] 59.Spiral Matrix II.py
