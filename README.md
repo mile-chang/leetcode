@@ -6,7 +6,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 
 ```
 .
-├── NeetCode
+├── NeetCode 150
 │   ├── [Medium] 49.Group Anagrams.py
 │   └── [Medium] 347.Top K Frequent Elements.py
 │
