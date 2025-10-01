@@ -9,6 +9,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ├── NeetCode 150
 │   ├── [Medium] 49.Group Anagrams.py
 │   ├── [Medium] 53.Maximum Subarray.py
+│   ├── [Medium] 128.Longest Consecutive Sequence.py
 │   └── [Medium] 347.Top K Frequent Elements.py
 │
 ├── General
