@@ -57,6 +57,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Medium] 713.Subarray Product Less Than K.py
 │   ├── [Medium] 797.All Paths From Source to Target.py
 │   ├── [Easy] 867.Transpose Matrix.py
+│   ├── [Medium] 875.Koko Eating Bananas.py (need review)
 │   ├── [Medium] 918.Maximum Sum Circular Subarray.py
 │   ├── [Easy] 977.Squares of a Sorted Array.py
 │   ├── [Medium] 1004.Max Consecutive Ones III.py
