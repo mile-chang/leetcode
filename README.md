@@ -48,6 +48,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Medium] 373.Find K Pairs with Smallest Sums.py
 │   ├── [Medium] 378.Kth Smallest Element in a Sorted Matrix.py
 │   ├── [Medium] 395.Longest Substring with At Least K Repeating Characters.py (must review)
+│   ├── [Hard] 410.Split Array Largest Sum (Logical like 1011)
 │   ├── [Medium] 424.Longest Repeating Character Replacement.py (need review)
 │   ├── [Medium] 438.Find All Anagrams in a String.py
 │   ├── [Medium] 445.Add Two Numbers II.py
