@@ -7,6 +7,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 ```
 .
 ├── NeetCode 150
+│   ├── [Easy] 1.Two Sum.py
 │   ├── [Medium] 15.3Sum.py
 │   ├── [Medium] 36.Valid Sudoku.py
 │   ├── [Medium] 49.Group Anagrams.py
@@ -15,7 +16,6 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   └── [Medium] 347.Top K Frequent Elements.py
 │
 ├── General
-│   ├── [Easy] 1.Two Sum.py
 │   ├── [Medium] 2.Add Two Numbers.py
 │   ├── [Medium] 3.Longest Substring Without Repeating Characters.py
 │   ├── [Medium] 5.Longest Palindromic Substring.py
