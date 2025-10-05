@@ -13,6 +13,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Medium] 49.Group Anagrams.py
 │   ├── [Medium] 53.Maximum Subarray.py
 │   ├── [Medium] 128.Longest Consecutive Sequence.py
+│   ├── [Easy] 217.Contains Duplicate.py
 │   ├── [Easy] 242.Valid Anagram.py
 │   └── [Medium] 347.Top K Frequent Elements.py
 │
