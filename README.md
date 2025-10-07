@@ -14,6 +14,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Hard] 42.Trapping Rain Water.py
 │   ├── [Medium] 49.Group Anagrams.py
 │   ├── [Medium] 53.Maximum Subarray.py
+│   ├── [Easy] 121.Best Time to Buy and Sell Stock.py
 │   ├── [Medium] 128.Longest Consecutive Sequence.py
 │   ├── [Easy] 217.Contains Duplicate.py
 │   ├── [Easy] 242.Valid Anagram.py
