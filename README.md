@@ -10,6 +10,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Easy] 1.Two Sum.py
 │   ├── [Medium] 11.Container With Most Water.py
 │   ├── [Medium] 15.3Sum.py
+│   ├── [Easy] 20.Valid Parentheses.py
 │   ├── [Medium] 36.Valid Sudoku.py
 │   ├── [Hard] 42.Trapping Rain Water.py
 │   ├── [Medium] 49.Group Anagrams.py
