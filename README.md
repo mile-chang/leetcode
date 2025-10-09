@@ -17,6 +17,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Medium] 53.Maximum Subarray.py
 │   ├── [Easy] 121.Best Time to Buy and Sell Stock.py
 │   ├── [Medium] 128.Longest Consecutive Sequence.py
+│   ├── [Medium] 155.Min Stack.py
 │   ├── [Easy] 217.Contains Duplicate.py
 │   ├── [Easy] 242.Valid Anagram.py
 │   └── [Medium] 347.Top K Frequent Elements.py
