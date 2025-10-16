@@ -16,6 +16,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Hard] 42.Trapping Rain Water.py
 │   ├── [Medium] 49.Group Anagrams.py
 │   ├── [Medium] 53.Maximum Subarray.py
+│   ├── [Medium] 74.Search a 2D Matrix.py
 │   ├── [Easy] 121.Best Time to Buy and Sell Stock.py
 │   ├── [Medium] 128.Longest Consecutive Sequence.py
 │   ├── [Medium] 150.Evaluate Reverse Polish Notation.py
