@@ -8,16 +8,12 @@
 # @lc code=start
 class Solution(object):
     def characterReplacement(self, s, k):
-        """
-        :type s: str
-        :type k: int
-        :rtype: int
-        """
+
         # Step 1: Init
         left, right = 0, 0
         # store the count of character in substring. 
         window = {}
-        # max count of x character in window.
+        # max count of each same character in window.
         windowMaxCount = 0
         # longest valid substring's length
         length = 0
@@ -30,7 +26,7 @@ class Solution(object):
             right += 1
 
             # Step 3: shrink window
-            while left < right and (right - left) - windowMaxCount > k:
+            if (right - left) - windowMaxCount > k:
                 d = s[left]
                 left += 1
                 window[d] -= 1

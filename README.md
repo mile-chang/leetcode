@@ -25,6 +25,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Easy] 217.Contains Duplicate.py
 │   ├── [Easy] 242.Valid Anagram.py
 │   ├── [Medium] 347.Top K Frequent Elements.py
+│   ├── [Medium] 424.Longest Repeating Character Replacement.py (need review)
 │   ├── [Medium] 739.Daily Temperatures.py
 │   └── [Medium] 853.Car Fleet.py (Need review)
 │
@@ -62,7 +63,6 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Medium] 378.Kth Smallest Element in a Sorted Matrix.py
 │   ├── [Medium] 395.Longest Substring with At Least K Repeating Characters.py (must review)
 │   ├── [Hard] 410.Split Array Largest Sum (Logical like 1011)
-│   ├── [Medium] 424.Longest Repeating Character Replacement.py (need review)
 │   ├── [Medium] 438.Find All Anagrams in a String.py
 │   ├── [Medium] 445.Add Two Numbers II.py
 │   ├── [Medium] 567.Permutation in String.py
