@@ -8,10 +8,8 @@
 # @lc code=start
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
+        
+        """ Method 1: Using Dictionary for Sliding Window """
         # Step 1: Initialize sliding window variables.
         window = {}
         left, right = 0, 0
@@ -32,6 +30,21 @@ class Solution(object):
                 window[d] -= 1
             # Step 4: Update maximum length (window no duplicate)
             res = max(res, right - left)
+        return res
+    
+    ''' Method 2: Using Set for Sliding Window '''
+    def lengthOfLongestSubstring_set(self, s: str) -> int:
+        char_set = set()
+        left = 0
+        res = 0
+
+        for right in range(len(s)):
+            while s[right] in char_set:
+                char_set.remove(s[left])
+                left += 1
+            char_set.add(s[right])
+            res = max(res, right - left + 1)
+
         return res       
         
 # @lc code=end
