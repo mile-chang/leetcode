@@ -23,6 +23,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Medium] 150.Evaluate Reverse Polish Notation.py
 │   ├── [Medium] 153.Find Minimum in Rotated Sorted Array.py
 │   ├── [Medium] 155.Min Stack.py
+│   ├── [Easy] 206.Reverse Linked List.py
 │   ├── [Easy] 217.Contains Duplicate.py
 │   ├── [Easy] 242.Valid Anagram.py
 │   ├── [Medium] 347.Top K Frequent Elements.py
