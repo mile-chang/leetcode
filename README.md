@@ -12,6 +12,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Medium] 11.Container With Most Water.py
 │   ├── [Medium] 15.3Sum.py
 │   ├── [Easy] 20.Valid Parentheses.py
+│   ├── [Easy] 21.Merge Two Sorted Lists.py
 │   ├── [Medium] 22.Generate Parentheses.py
 │   ├── [Medium] 36.Valid Sudoku.py
 │   ├── [Hard] 42.Trapping Rain Water.py
@@ -35,7 +36,6 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Medium] 2.Add Two Numbers.py
 │   ├── [Medium] 5.Longest Palindromic Substring.py
 │   ├── [Easy] 14.Longest Common Prefix.py
-│   ├── [Easy] 21.Merge Two Sorted Lists.py
 │   ├── [Easy] 26.Remove Duplicates from Sorted Array.py
 │   ├── [Hard] 25.Reverse Nodes in k-Group (Two solution: 'iterative' and 'recursive')
 │   ├── [Easy] 27.Remove Element.py

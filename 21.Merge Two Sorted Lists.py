@@ -13,13 +13,13 @@
 #         self.next = next
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
-        # create a dummy node to simplify the merging process
-        dummy = ListNode(-1)
+        # Create a dummy node to simplify the merging process
+        dummy = ListNode()
         # use a pointer to build the new list
         p = dummy
         p1, p2 = list1, list2
         # compare p1 and p2, and append the smaller one to the new list
-        while p1 is not None and p2 is not None:
+        while p1 and p2:
             if p1.val < p2.val:
                 p.next = p1
                 p1 = p1.next
@@ -29,10 +29,7 @@ class Solution:
             # p pointer still moves forward
             p = p.next
         # if one of the lists is not empty, append the rest of it to the new list
-        if p1 is not None:
-            p.next = p1
-        if p2 is not None:
-            p.next = p2
+        p.next = p1 if p1 else p2
         return dummy.next
 # @lc code=end
 
