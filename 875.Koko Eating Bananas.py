@@ -1,40 +1,35 @@
 #
-# @lc app=leetcode id=875 lang=python
+# @lc app=leetcode id=875 lang=python3
 # @lcpr version=30203
 #
 # [875] Koko Eating Bananas
 #
 
 # @lc code=start
-class Solution(object):
-    def minEatingSpeed(self, piles, h):
-        """
-        :type piles: List[int]
-        :type h: int
-        :rtype: int
-        """
+class Solution:
+    def minEatingSpeed(self, piles: List[int], h: int) -> int:
+        
+        # Find the minimum eating speed k such that f(k) <= h
+        left, right = 1, max(piles) + 1 
+
         # [left, right): possible eating speeds
-        left, right = 1, max(piles) + 1
         while left < right:
             mid = left + (right - left) // 2
             if self.f(piles, mid) <= h:
                 right = mid
-            elif self.f(piles, mid) > h:
+            else:
                 left = mid + 1
-            elif self.f(piles, mid) == h:
-                right = mid
         return left
     
     # Definition of f(k): hours needed to eat all bananas at speed k
     # f(k) is a decreasing function
-    def f(self, piles, k):
+    def f(self, piles: List[int], k: int) -> int:
         hours = 0
         for p in piles:
             hours += p // k
             if p % k != 0:
                 hours += 1
         return hours
-        
 # @lc code=end
 
 

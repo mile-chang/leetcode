@@ -32,7 +32,8 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Medium] 424.Longest Repeating Character Replacement.py (need review)
 │   ├── [Medium] 567.Permutation in String.py
 │   ├── [Medium] 739.Daily Temperatures.py
-│   └── [Medium] 853.Car Fleet.py (Need review)
+│   ├── [Medium] 853.Car Fleet.py (Need review)
+│   └── [Medium] 875.Koko Eating Bananas.py (need review)
 │
 ├── General
 │   ├── [Medium] 2.Add Two Numbers.py
@@ -74,7 +75,6 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Medium] 713.Subarray Product Less Than K.py
 │   ├── [Medium] 797.All Paths From Source to Target.py
 │   ├── [Easy] 867.Transpose Matrix.py
-│   ├── [Medium] 875.Koko Eating Bananas.py (need review)
 │   ├── [Medium] 918.Maximum Sum Circular Subarray.py
 │   ├── [Easy] 977.Squares of a Sorted Array.py
 │   ├── [Medium] 1004.Max Consecutive Ones III.py
