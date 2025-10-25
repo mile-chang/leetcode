@@ -30,6 +30,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Easy] 242.Valid Anagram.py
 │   ├── [Medium] 347.Top K Frequent Elements.py
 │   ├── [Medium] 424.Longest Repeating Character Replacement.py (need review)
+│   ├── [Medium] 567.Permutation in String.py
 │   ├── [Medium] 739.Daily Temperatures.py
 │   └── [Medium] 853.Car Fleet.py (Need review)
 │
@@ -68,7 +69,6 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Hard] 410.Split Array Largest Sum (Logical like 1011)
 │   ├── [Medium] 438.Find All Anagrams in a String.py
 │   ├── [Medium] 445.Add Two Numbers II.py
-│   ├── [Medium] 567.Permutation in String.py
 │   ├── [Easy] 589.N-ary Tree Preorder Traversal.py
 │   ├── [Easy] 590.N-ary Tree Postorder Traversal.py
 │   ├── [Medium] 713.Subarray Product Less Than K.py
