@@ -22,6 +22,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Easy] 121.Best Time to Buy and Sell Stock.py
 │   ├── [Medium] 128.Longest Consecutive Sequence.py
 │   ├── [Easy] 141.Linked List Cycle.py
+│   ├── [Medium] 143.Reorder List.py
 │   ├── [Medium] 150.Evaluate Reverse Polish Notation.py
 │   ├── [Medium] 153.Find Minimum in Rotated Sorted Array.py
 │   ├── [Medium] 155.Min Stack.py
