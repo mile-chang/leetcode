@@ -8,6 +8,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 .
 ├── NeetCode 150
 │   ├── [Easy] 1.Two Sum.py
+│   ├── [Medium] 2.Add Two Numbers.py
 │   ├── [Medium] 3.Longest Substring Without Repeating Characters.py
 │   ├── [Medium] 11.Container With Most Water.py
 │   ├── [Medium] 15.3Sum.py
@@ -38,7 +39,6 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   └── [Medium] 875.Koko Eating Bananas.py (need review)
 │
 ├── General
-│   ├── [Medium] 2.Add Two Numbers.py
 │   ├── [Medium] 5.Longest Palindromic Substring.py
 │   ├── [Easy] 14.Longest Common Prefix.py
 │   ├── [Easy] 26.Remove Duplicates from Sorted Array.py

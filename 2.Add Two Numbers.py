@@ -21,7 +21,8 @@ class Solution:
         p = dummy
         # record the 10's carry
         carry = 0
-        # iterate through both linked lists until both are exhausted and no carry remains
+        
+        # Iterate through both linked lists until both are exhausted and no carry remains
         while p1 is not None or p2 is not None or carry > 0:
             val = carry
             if p1 is not None:
