@@ -31,6 +31,7 @@ This repository contains solutions to LeetCode problems. Each solution is implem
 │   ├── [Easy] 206.Reverse Linked List.py
 │   ├── [Easy] 217.Contains Duplicate.py
 │   ├── [Easy] 242.Valid Anagram.py
+│   ├── [Medium]287.Find the Duplicate Number (need review)
 │   ├── [Medium] 347.Top K Frequent Elements.py
 │   ├── [Medium] 424.Longest Repeating Character Replacement.py (need review)
 │   ├── [Medium] 567.Permutation in String.py
